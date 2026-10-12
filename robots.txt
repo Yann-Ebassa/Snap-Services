@@ -1,0 +1,8 @@
+# robots.txt — Snap Services
+# TODO(production) : remplacer le domaine ci-dessous par le nom de
+# domaine réel une fois l'hébergement en place.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://snapservice.example/sitemap.xml

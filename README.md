@@ -1,4 +1,5 @@
-# Snap-Services
+# Snap Services — Site vitrine
+
 Landing page one-page en HTML/CSS/JS, avec configuration publique séparée et fonctions serverless optionnelles pour le contact. Thème clair/sombre, responsive, SEO de base en place.
 
 ## Contenu du dossier
