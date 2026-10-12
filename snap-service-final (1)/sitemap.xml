@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap minimal : le site est une landing page unique (one-page),
+  une seule URL suffit donc. Si Snap Services évolue vers plusieurs
+  pages (ex. une page par service), ajouter une entrée <url> par page.
+  TODO(production) : remplacer le domaine ci-dessous par le nom de
+  domaine réel une fois l'hébergement en place.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://snapservice.example/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
